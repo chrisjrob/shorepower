@@ -11,7 +11,7 @@ Designed in OpenSCAD.
 
 Status
 ------
-Work in progress
+Complete.
 
 Instructions
 ------------
